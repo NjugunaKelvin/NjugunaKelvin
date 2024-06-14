@@ -6,14 +6,20 @@ Welcome to my GitHub realm, where bits and bytes come alive! I'm Njuguna Kelvin,
 <h2><b>🚀 Technologies & Tools</b></h2>
 Languages: Python, JavaScript, HTML & CSS, 
 Frameworks & Libraries: React Native, Flutter, Django
-Tools: Git, VS Code,
-🌱 Current Incantations
+Tools: Git, VS Code
+
+
+<h2><b>🌱 Current Incantations</b></h2>
 Project Phoenix: 🔥 Building a blazing-fast mobile app with Flutter.
 Project Nebula: 🌌 Exploring the cosmos of AI integration in mobile apps.
-📫 Let's Conjure Connections
+
+
+<h3><b>📫 Let's Conjure Connections</b></h3>
 LinkedIn: Connect with me
 Email: Drop me a line
-✨ Fun Fact
+
+
+<h5><b>✨ Fun Fact</b></h5>
 Did you know? I'm a coffee aficionado ☕️ and stargazer 🌠 when I'm not conjuring code.
 <!--
 **NjugunaKelvin/NjugunaKelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
