@@ -2,7 +2,8 @@
 👋 Hello, I'm Vin - The Code Alchemist
 Welcome to my GitHub realm, where bits and bytes come alive! I'm Njuguna Kelvin, known affectionately as Vin, and I specialize in weaving digital spells through cross-platform mobile app development.
 
-🚀 Technologies & Tools
+
+<h2><b>🚀 Technologies & Tools</b></h2>
 Languages: Python, JavaScript, HTML & CSS, 
 Frameworks & Libraries: React Native, Flutter, Django
 Tools: Git, VS Code,
