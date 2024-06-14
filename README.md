@@ -21,9 +21,9 @@ Welcome to my GitHub realm, where bits and bytes come alive! I'm Njuguna Kelvin,
 
 
 <h3><b>📫 Let's Conjure Connections</b></h3>
-LinkedIn: Connect with me
+🌟 LinkedIn: Let's connect and grow together!
 
-Email: Drop me a line
+📧 Email:<a href="mailto:njugunak349@gmail.com"> Send your message my way!</a>
 
 
 <h5><b>✨ Fun Fact</b></h5>
