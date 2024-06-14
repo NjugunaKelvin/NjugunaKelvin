@@ -6,19 +6,23 @@ Welcome to my GitHub realm, where bits and bytes come alive! I'm Njuguna Kelvin,
 
 <h2><b>🚀 Technologies & Tools</b></h2>
 <ul>
-  <li>Languages: Python, JavaScript, HTML & CSS,</li>
+  <li>Languages: Python, JavaScript, HTML & CSS, Dart</li>
   <li>Frameworks & Libraries: React Native, Flutter, Django</li>
   <li>Tools: Git, VS Code, Command Prompt</li>
 </ul> 
 
 
 <h2><b>🌱 Current Incantations</b></h2>
-Project Phoenix: 🔥 Building a blazing-fast mobile app with Flutter.
-Project Nebula: 🌌 Exploring the cosmos of AI integration in mobile apps.
+<ul>
+  <li>Project Phoenix: 🔥 Building a blazing-fast mobile app with Flutter.</li>
+  <li>Project Nebula: 🌌 Exploring the cosmos of AI integration in mobile apps.</li>
+</ul>
+
 
 
 <h3><b>📫 Let's Conjure Connections</b></h3>
 LinkedIn: Connect with me
+
 Email: Drop me a line
 
 
