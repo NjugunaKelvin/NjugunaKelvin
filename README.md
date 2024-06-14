@@ -1,5 +1,6 @@
 ## Hi there 👋
 👋 Hello, I'm Vin - The Code Alchemist
+
 Welcome to my GitHub realm, where bits and bytes come alive! I'm Njuguna Kelvin, known affectionately as Vin, and I specialize in weaving digital spells through cross-platform mobile app development.
 
 
