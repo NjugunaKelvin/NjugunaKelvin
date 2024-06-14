@@ -6,9 +6,9 @@ Welcome to my GitHub realm, where bits and bytes come alive! I'm Njuguna Kelvin,
 
 <h2><b>🚀 Technologies & Tools</b></h2>
 <ul>
-  <li><emph>Languages:</emph> Python, JavaScript, HTML & CSS, Dart</li>
-  <li>Frameworks & Libraries: React Native, Flutter, Django</li>
-  <li>Tools: Git, VS Code, Command Prompt</li>
+  <li><em>Languages:</em> Python, JavaScript, HTML & CSS, Dart</li>
+  <li><em>Frameworks & Libraries:</em> React Native, Flutter, Django</li>
+  <li><em>Tools:</em>Git, VS Code, Command Prompt</li>
 </ul> 
 
 
