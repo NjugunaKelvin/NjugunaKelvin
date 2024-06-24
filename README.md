@@ -25,6 +25,30 @@ Welcome to my GitHub realm, where bits and bytes come alive! I'm <b>Njuguna Kelv
 
 📧 Email:<a href="mailto:njugunak349@gmail.com"> Send your message my way!</a>
 
+<p align="left">
+  <a href="https://twitter.com/yourusername" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="30" />
+  </a>
+  yourusername
+</p>
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  yourusername
+</p>
+<p align="left">
+  <a href="https://instagram.com/yourusername" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="30" />
+  </a>
+  yourusername
+</p>
+<p align="left">
+  <a href="https://github.com/yourusername" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="30" />
+  </a>
+  yourusername
+</p>
 
 <h5><b>✨ Fun Fact</b></h5>
 Did you know? I'm a coffee aficionado ☕️ and stargazer 🌠 when I'm not conjuring code.
