@@ -26,30 +26,30 @@ Welcome to my GitHub realm, where bits and bytes come alive! I'm <b>Njuguna Kelv
 📧 Email:<a href="mailto:njugunak349@gmail.com"> Send your message my way!</a>
 
 <p align="left">
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/ZenithKelvin" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="30" style="color:#1DA1F2;" />
   </a>
-  yourusername
+  ZenithKelvin
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/njuguna-kelvin" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="color:#0A66C2;" />
   </a>
-  yourusername
+  Njuguna Kelvin
   &nbsp;&nbsp;
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/zenith.vin" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="30" style="color:#E4405F;" />
   </a>
-  yourusername
+  zenith.vin
   &nbsp;&nbsp;
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/NjugunaKelvin" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="30" style="color:#181717;" />
   </a>
-  yourusername
+  NjugunaKelvin
   &nbsp;&nbsp;
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:njugunak349@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="30" style="color:#D14836;" />
   </a>
-  youremail@example.com
+  njugunak349@gmail.com
 </p>
 
 
