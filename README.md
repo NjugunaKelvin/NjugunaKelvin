@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+GitHub!+Space;Hi+%F0%9F%91%8B+I'm+Njuguna+Kelvin!;Hope+You+Enjoy+%3A)">
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Vin</h1>
 <h3 align="center">I'm a cross-platform mobile app alchemist 🧙‍♂️, turning code into seamless experiences ✨.</h3>
 
