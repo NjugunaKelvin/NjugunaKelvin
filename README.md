@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+GitHub!+Space;Hi+%F0%9F%91%8B+I'm+Njuguna+Kelvin!;Hope+You+Enjoy+%3A)">
 </p>
 
