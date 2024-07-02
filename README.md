@@ -7,9 +7,7 @@
 <h1 align="center">I'm Vin</h1>
 <h3 align="center">I'm a cross-platform mobile app alchemist 🧙‍♂️, turning code into seamless experiences ✨.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=njugunakelvin&label=Profile%20views&color=0e75b6&style=flat" alt="njugunakelvin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njugunakelvin" alt="njugunakelvin" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=NjugunaKelvin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/zenithkelvin" target="blank"><img src="https://img.shields.io/twitter/follow/zenithkelvin?logo=twitter&style=for-the-badge" alt="zenithkelvin" /></a> </p>
 
