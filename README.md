@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Hey+there+tech+Explorer!;Welcome+%F0%9F%91%8B+to+my+code+realm!;Spark+your+Imagination+Here;Let's+turn+Ideas+into+reality.+%3A)">
 </p>
 
