@@ -5,21 +5,11 @@
 
 
 <h1 align="center">I'm Vin</h1>
-<h3 align="center">I'm a cross-platform mobile app alchemist 🧙‍♂️, turning code into seamless experiences ✨.</h3>
+<h3 align="center">A Backend Architect crafting the backbone of digital experience 🧙‍♂️, turning code into seamless experiences ✨.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NjugunaKelvin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/zenithkelvin" target="blank"><img src="https://img.shields.io/twitter/follow/zenithkelvin?logo=twitter&style=for-the-badge" alt="zenithkelvin" /></a> </p>
-
-- 🔭 I’m currently working on **Alpha**
-
-- 🌱 I’m currently learning **Dart with flutter**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django and Dart**
-
-- 📫 How to reach me **njugunak349@gmail.com**
-
-- ⚡ Fun fact **I think I'm very radiant.**
+<p align="center"> <a href="https://twitter.com/zenithkelvin" target="blank"><img src="https://img.shields.io/twitter/follow/zenithkelvin?logo=twitter&style=for-the-badge" alt="zenithkelvin" /></a> </p>
 
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/Github-1769ff?logo=github&logoColor=white)](https://github.com/Francis-Mwaniki/NjugunaKelvin/) 
