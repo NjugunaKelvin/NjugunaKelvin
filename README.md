@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Hey+there+tech+Explorer!;Welcome+%F0%9F%91%8B+to+my+code+realm!;Spark+your+Imagination+Here;Let's+turn+Ideas+into+reality.+%3A)">
 </p>
 
-
-
-<h1 align="center">I'm Vin</h1>
 <h3 align="center">A Backend Architect crafting the backbone of digital experience 🧙‍♂️, turning code into seamless experiences ✨.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NjugunaKelvin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
