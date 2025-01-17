@@ -72,3 +72,5 @@
 </div>
 
 
+https://gh-readme-profile.vercel.app/api?username=NjugunaKelvin&theme=dark&hide=forks&show=reviews,issues_closed,discussions_started,discussions_answered&border_width=0.4&hide_border=true&bg_color=000000&title_color=1f07ba&icon_color=8d7b39
+
