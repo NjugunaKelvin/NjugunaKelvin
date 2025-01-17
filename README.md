@@ -9,11 +9,11 @@
 <p align="center"> <a href="https://twitter.com/zenithkelvin" target="blank"><img src="https://img.shields.io/twitter/follow/zenithkelvin?logo=twitter&style=for-the-badge" alt="zenithkelvin" /></a> </p>
 
 ## 🌐 Socials:
-[![Github](https://img.shields.io/badge/Github-1769ff?logo=github&logoColor=white)](https://github.com/Francis-Mwaniki/NjugunaKelvin/) 
+[![Github](https://img.shields.io/badge/Github-1769ff?logo=github&logoColor=white)](https://github.com/NjugunaKelvin/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njuguna-kelvin-378603220/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ZenithKelvin) 
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools: </h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
