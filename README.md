@@ -71,6 +71,8 @@
   <img src="https://komarev.com/ghpvc/?username=NjugunaKelvin&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=NjugunaKelvin&theme=dark&hide=forks&show=reviews,issues_closed,discussions_started,discussions_answered&border_width=0.4&hide_border=true&bg_color=000000&title_color=1f07ba&icon_color=8d7b39&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-https://gh-readme-profile.vercel.app/api?username=NjugunaKelvin&theme=dark&hide=forks&show=reviews,issues_closed,discussions_started,discussions_answered&border_width=0.4&hide_border=true&bg_color=000000&title_color=1f07ba&icon_color=8d7b39
 
