@@ -26,11 +26,45 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njuguna-kelvin-378603220/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ZenithKelvin) 
 
-<h3 align="left">Languages and Tools:</h3>
-## Languages and Tools:
-- ![JavaScript](https://fontawesome.com/icons/terminal?f=classic&s=solid)
-- ![Python](https://fontawesome.com/icons/python?f=classic&s=brands)
-- ![Vue.js](https://fontawesome.com/icons/vuejs?f=classic&s=brands)
+<h2 align="center">Languages and Tools:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
+      <br>AWS
+    </td>              
+ </tr>
+</table>
+</div>
 
 
 
