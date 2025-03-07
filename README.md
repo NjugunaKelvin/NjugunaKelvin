@@ -2,16 +2,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Hey+there+tech+Explorer!;Welcome+%F0%9F%91%8B+to+my+code+realm!;Spark+your+Imagination+Here;Let's+turn+Ideas+into+reality.+%3A)">
 </p>
 
+
 <h3 align="center">A Backend Architect crafting the backbone of digital experience 🧙‍♂️, turning code into seamless experiences ✨.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NjugunaKelvin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/NjugunaKelvin" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/njuguna-kelvin-378603220/">
+    <img src="https://img.icons8.com/color/48/linkedin.png">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/NjugunaVin" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitterx.png">
+  </a>
+</p>
 
-<p align="center"> <a href="https://twitter.com/zenithkelvin" target="blank"><img src="https://img.shields.io/twitter/follow/zenithkelvin?logo=twitter&style=for-the-badge" alt="zenithkelvin" /></a> </p>
 
-## 🌐 Socials:
-[![Github](https://img.shields.io/badge/Github-1769ff?logo=github&logoColor=white)](https://github.com/NjugunaKelvin/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njuguna-kelvin-378603220/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ZenithKelvin) 
+
 
 <h2 align="center">Languages and Tools: </h2>
 <div style="display: flex; align-items: flex-start; align: center">
