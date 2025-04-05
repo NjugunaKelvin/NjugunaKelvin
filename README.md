@@ -1,88 +1,75 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Hey+there+tech+Explorer!;Welcome+%F0%9F%91%8B+to+my+code+realm!;Spark+your+Imagination+Here;Let's+turn+Ideas+into+reality.+%3A)">
+  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Hey+there+Tech+Explorer!;Welcome+to+my+Digital+Realm+🚀;Let’s+turn+ideas+into+impact!;Innovation+starts+here+✨" />
 </p>
 
+<h1 align="center">✨ You finally found the developer you've been looking for.</h1>
 
-<h3 align="center">A Backend Architect crafting the backbone of digital experience 🧙‍♂️, turning code into seamless experiences ✨.</h3>
+<h3 align="center">Backend Architect · Problem Solver · Creative Technologist</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NjugunaKelvin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
-  <a href="https://github.com/NjugunaKelvin" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/njuguna-kelvin-378603220/">
-    <img src="https://img.icons8.com/color/48/linkedin.png">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/NjugunaVin" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitterx.png">
-  </a>
+  I architect the invisible – from robust APIs to scalable cloud systems. <br />
+  I don’t just build code; I craft digital foundations that power unforgettable user experiences. <br />
+  Let's make your next big idea bulletproof.
 </p>
-
-
-
-
-<h2 align="center">Languages and Tools: </h2>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
-      <br>AWS
-    </td>              
- </tr>
-</table>
-
-
-</div>
 
 ---
 
-
-
+### 🌐 Connect With Me
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjugunaKelvin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <a href="https://github.com/NjugunaKelvin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/njuguna-kelvin-378603220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/NjugunaVin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
- 
 
+---
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=NjugunaKelvin&style=for-the-badge&color=orange" alt=""/>
-</div>
+### 🧠 Highlights
 
-<div id="header" align="center">
-  <a src="https://gh-readme-profile.vercel.app/api?username=NjugunaKelvin&theme=dark&hide=forks&show=reviews,issues_closed,discussions_started,discussions_answered&border_width=0.4&hide_border=true&bg_color=000000&title_color=1f07ba&icon_color=8d7b39&style=for-the-badge&color=orange" alt=""></a>
-</div>
+- 🧱 Backend Architect crafting scalable and secure digital infrastructures.
+- ⚙️ API Engineer with a focus on performance, RESTful architecture, and Django DRF.
+- ☁️ DevOps-inclined with hands-on AWS deployment and CI/CD integrations.
+- 👨‍💻 Open Source Contributor passionate about clean, maintainable code.
+- 💡 Creative builder who turns ideas into fully-functional, real-world applications.
 
+---
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" />
+</p>
+
+---
+
+### 📊 GitHub At A Glance
+
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=vision-friendly-dark" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjugunaKelvin&layout=compact&theme=vision-friendly-dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NjugunaKelvin&style=for-the-badge&color=orange" alt="Profile Views"/>
+</p>
+
+---
+
+### 💬 Let's Build Something Together
+
+<p align="center"><em>I’m always open to collaboration, open-source work, or building your next big idea. Let’s connect!</em></p>
