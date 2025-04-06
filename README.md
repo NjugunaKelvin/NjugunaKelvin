@@ -17,6 +17,9 @@
 ### 🌐 Connect With Me
 
 <p align="center">
+  <a href="https:njuguna-kelvin.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=Portfolio&logoColor=white" />
+  </a>
   <a href="https://github.com/NjugunaKelvin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
