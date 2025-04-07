@@ -4,7 +4,7 @@
 
 <h1 align="center">✨ You finally found the developer you've been looking for.</h1>
 
-<h3 align="center">Backend Architect · Problem Solver · Creative Technologist</h3>
+<h3 align="center">Innovative Engineer · Problem Solver · Creative Technologist · Tech Explorer</h3>
 
 <p align="center">
   I architect the invisible – from robust APIs to scalable cloud systems. <br />
