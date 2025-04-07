@@ -4,7 +4,10 @@
 
 <h1 align="center">✨ You finally found the developer you've been looking for.</h1>
 
-<h3 align="center">Innovative Engineer · Problem Solver · Creative Technologist · Tech Explorer</h3>
+<h3 align="center">
+  <strong>Innovative Engineer · Problem Solver · Creative Technologist · Tech Explorer</strong>
+</h3>
+
 
 <p align="center">
   I design the unseen — blending web, mobile, and AI into seamless digital experiences. <br />
@@ -36,11 +39,13 @@
 
 ### 🧠 Highlights
 
-- 🧱 Backend Architect crafting scalable and secure digital infrastructures.
+- 🧱 Software Engineer crafting scalable and secure digital infrastructures.
 - ⚙️ API Engineer with a focus on performance, RESTful architecture, and Django DRF.
-- ☁️ DevOps-inclined with hands-on AWS deployment and CI/CD integrations.
+- 📱 Full-Stack Developer building intuitive web and mobile experiences.
+- 🤖 AI/ML Enthusiast creating intelligent systems with real-world impact.
 - 👨‍💻 Open Source Contributor passionate about clean, maintainable code.
 - 💡 Creative builder who turns ideas into fully-functional, real-world applications.
+
 
 ---
 
