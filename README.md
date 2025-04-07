@@ -7,10 +7,11 @@
 <h3 align="center">Innovative Engineer · Problem Solver · Creative Technologist · Tech Explorer</h3>
 
 <p align="center">
-  I architect the invisible – from robust APIs to scalable cloud systems. <br />
-  I don’t just build code; I craft digital foundations that power unforgettable user experiences. <br />
-  Let's make your next big idea bulletproof.
+  I design the unseen — blending web, mobile, and AI into seamless digital experiences. <br />
+  My code doesn’t just work — it learns, adapts, and evolves. <br />
+  Let’s bring your boldest ideas to life.
 </p>
+
 
 ---
 
