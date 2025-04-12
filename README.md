@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Hey+there+Tech+Explorer!;Welcome+to+my+Digital+Realm+🚀;Let’s+turn+ideas+into+impact!;Innovation+starts+here+✨" />
 </p>
 
-<h1 align="center">✨ You finally found the developer you've been looking for.</h1>
+<h1 align="center">✨ Building solutions, one line of code at a time.</h1>
 
 <h3 align="center">
   <strong>Innovative Engineer · Problem Solver · Creative Technologist · Tech Explorer</strong>
