@@ -1,19 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Hey+there+Tech+Explorer!;Welcome+to+my+Digital+Realm+🚀;Let’s+turn+ideas+into+impact!;Innovation+starts+here+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Software+Engineer;Clean+Code+Advocate;Builder+of+Useful+Things" />
 </p>
 
-<h1 align="center">✨ Building solutions, one line of code at a time.</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building%20solutions%20one%20line%20at%20a%20time.-FFA500?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
+</p>
+
+
+
 
 <h3 align="center">
-  <strong>Innovative Engineer · Problem Solver · Creative Technologist · Tech Explorer</strong>
+  <strong>Software Engineer · Creative Developer · Curious Technologist</strong>
 </h3>
 
 
 <p align="center">
-  I design the unseen — blending web, mobile, and AI into seamless digital experiences. <br />
-  My code doesn’t just work — it learns, adapts, and evolves. <br />
-  Let’s bring your boldest ideas to life.
+  I build reliable software with a focus on clarity, structure, and long-term usability. <br />
+  Quietly passionate about clean code, thoughtful interfaces, and systems that make sense.
 </p>
+
 
 
 ---
@@ -37,19 +43,20 @@
 
 ---
 
-### 🧠 Highlights
+### Highlights
+- Software engineer focused on building systems that are reliable, efficient, and easy to maintain.
 
-- 🧱 Software Engineer crafting scalable and secure digital infrastructures.
-- ⚙️ API Engineer with a focus on performance, RESTful architecture, and Django DRF.
-- 📱 Full-Stack Developer building intuitive web and mobile experiences.
-- 🤖 AI/ML Enthusiast creating intelligent systems with real-world impact.
-- 👨‍💻 Open Source Contributor passionate about clean, maintainable code.
-- 💡 Creative builder who turns ideas into fully-functional, real-world applications.
+- I care about clean code, thoughtful design, and solving real problems.
 
+- Comfortable working across the stack; backend, frontend, and everything in between.
+
+- Curious about AI and how it can be applied to useful, everyday tools.
+
+- Open to collaboration, feedback, and learning better ways to build.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" />
@@ -64,7 +71,7 @@
 
 ---
 
-### 📊 GitHub At A Glance
+### GitHub At A Glance
 
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=vision-friendly-dark" />
@@ -81,4 +88,5 @@
 
 ### 💬 Let's Build Something Together
 
-<p align="center"><em>I’m always open to collaboration, open-source work, or building your next big idea. Let’s connect!</em></p>
+<p align="center"><em>Open to meaningful collaboration, open-source contributions, or working on well-defined, impactful projects. Let’s connect.</em></p>
+
