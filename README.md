@@ -9,7 +9,7 @@
 
 <!-- ─────────────  ELEVATOR PITCH  ───────────── -->
 <h3 align="center">
-  I turn ideas into reliable software — then make it faster, simpler, and easier to maintain.
+  I turn ideas into reliable software, then make it faster, simpler, and easier to maintain.
 </h3>
 
 <p align="center">
@@ -71,5 +71,5 @@
 
 <p align="center">
   <strong>Have a gnarly problem or an open-source idea?</strong><br/>
-  <em>Let’s chat — my DMs are open.</em>
+  <em>Let’s chat, my DMs are open.</em>
 </p>
