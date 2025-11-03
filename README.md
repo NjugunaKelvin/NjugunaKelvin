@@ -1,94 +1,75 @@
+<!-- ─────────────  HERO  ───────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Software+Engineer;Clean+Code+Advocate;Builder+of+Useful+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Software+Engineer;Clean+Code+Advocate;Builder+of+Useful+Things" alt="Typing text" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Building%20solutions%20one%20line%20at%20a%20time.-FFA500?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
 </p>
 
-
-
-
+<!-- ─────────────  ELEVATOR PITCH  ───────────── -->
 <h3 align="center">
-  <strong>Software Engineer · Creative Developer · Curious Technologist</strong>
+  I turn ideas into reliable software — then make it faster, simpler, and easier to maintain.
 </h3>
 
-
 <p align="center">
-  I build reliable software with a focus on clarity, structure, and long-term usability. <br />
-  Quietly passionate about clean code, thoughtful interfaces, and systems that make sense.
+  Backend, frontend, and the parts in-between.<br/>
+  Currently curious about AI-augmented tooling & humane interfaces.
 </p>
 
-
-
----
-
-### 🌐 Connect With Me
-
+<!-- ─────────────  SOCIAL BADGES  ───────────── -->
 <p align="center">
-  <a href="https://njuguna-kelvin.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=Portfolio&logoColor=white" />
-  </a>
-  <a href="https://github.com/NjugunaKelvin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/njuguna-kelvin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/NjugunaVin" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
+  <a href="https://njuguna-kelvin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://github.com/NjugunaKelvin"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/njuguna-kelvin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/NjugunaVin"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-### Highlights
-- Software engineer focused on building systems that are reliable, efficient, and easy to maintain.
-
-- I care about clean code, thoughtful design, and solving real problems.
-
-- Comfortable working across the stack; backend, frontend, and everything in between.
-
-- Curious about AI and how it can be applied to useful, everyday tools.
-
-- Open to collaboration, feedback, and learning better ways to build.
+<!-- ─────────────  VALUE PROPS  ───────────── -->
+### What I bring to a codebase
+|  |  |
+|---|---|
+| 🧩 **Clean Architecture** | Services that survive the next pivot. |
+| ⚡ **Performance First** | Profiling before premature optimization. |
+| 🧪 **TDD & CI/CD** | Green pipelines == better sleep. |
+| 🌍 **Full-Stack Fluency** | Python / Django / Java / React / AWS. |
+| 🤝 **Product Mindset** | Code is a means — user value is the end. |
 
 ---
 
-###  Tech Stack
-
+<!-- ─────────────  TECH FLAVORS  ───────────── -->
+### ⚙️ Tech Stack Snapshot
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" alt="Django" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" alt="Java" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" title="Python" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" title="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" alt="Django" title="Django" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" alt="Java" title="Java" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" title="React" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" title="MySQL" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="Git" title="Git" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" title="AWS" />
 </p>
 
 ---
 
-### GitHub At A Glance
-
+<!-- ─────────────  GITHUB METRICS  ───────────── -->
+### 📊 GitHub at a Glance
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=transparent" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjugunaKelvin&layout=compact&theme=transparent" />
-</p>
-
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NjugunaKelvin&style=for-the-badge&color=orange" alt="Profile Views"/>
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=NjugunaKelvin&theme=transparent&hide_border=true&background=00000000" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjugunaKelvin&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
 
-### 💬 Let's Build Something Together
+<!-- ─────────────  FOOTER CTA  ───────────── -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NjugunaKelvin&style=for-the-badge&color=orange" alt="Profile views" />
+</p>
 
-<p align="center"><em>Open to meaningful collaboration, open-source contributions, or working on well-defined, impactful projects. Let’s connect.</em></p>
-
+<p align="center">
+  <strong>Have a gnarly problem or an open-source idea?</strong><br/>
+  <em>Let’s chat — my DMs are open.</em>
+</p>
