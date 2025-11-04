@@ -56,11 +56,7 @@
 
 <!-- ─────────────  GITHUB METRICS  ───────────── -->
 ### 📊 GitHub at a Glance
-<p align="center">
-  <img width="410" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=NjugunaKelvin&theme=transparent&hide_border=true&background=00000000" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjugunaKelvin&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" />
-</p>
+
 
 ---
 
