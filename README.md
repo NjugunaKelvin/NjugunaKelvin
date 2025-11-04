@@ -31,11 +31,11 @@
 ### What I bring to a codebase
 |  |  |
 |---|---|
-| 🧩 **Clean Architecture** | Services that survive the next pivot. |
-| ⚡ **Performance First** | Profiling before premature optimization. |
-| 🧪 **TDD & CI/CD** | Green pipelines == better sleep. |
-| 🌍 **Full-Stack Fluency** | Python / Django / Java / React / AWS. |
-| 🤝 **Product Mindset** | Code is a means — user value is the end. |
+| **Clean Architecture** | Services that survive the next pivot. |
+| **Performance First** | Profiling before premature optimization. |
+| **TDD & CI/CD** | Green pipelines == better sleep. |
+| **Full-Stack Fluency** | Python / Django / Java / React / AWS / JavaScript. |
+| **Product Mindset** | Code is a means, user value is the end. |
 
 ---
 
