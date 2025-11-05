@@ -34,7 +34,7 @@
 | **Clean Architecture** | Services that survive the next pivot. |
 | **Performance First** | Profiling before premature optimization. |
 | **TDD & CI/CD** | Green pipelines == better sleep. |
-| **Full-Stack Fluency** | Python / Django / Java / React / AWS / JavaScript. |
+| **Full-Stack Fluency** | Python / Django / Java / React / Azure / JavaScript. |
 | **Product Mindset** | Code is a means, user value is the end. |
 
 ---
@@ -49,7 +49,7 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" title="React" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" title="MySQL" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="Git" title="Git" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" title="AWS" />
+  <!--<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" title="AWS" /> -->
 </p>
 
 ---
