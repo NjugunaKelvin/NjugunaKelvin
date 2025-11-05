@@ -40,7 +40,7 @@
 ---
 
 <!-- ─────────────  TECH FLAVORS  ───────────── -->
-### ⚙️ Tech Stack Snapshot
+### Tech Stack Snapshot
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" title="Python" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" title="JavaScript" />
@@ -55,7 +55,7 @@
 ---
 
 <!-- ─────────────  GITHUB METRICS  ───────────── -->
-### 📊 GitHub at a Glance
+### GitHub at a Glance
 <p align="center">
   <img width="410" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=NjugunaKelvin&theme=transparent&hide_border=true&background=00000000" />
