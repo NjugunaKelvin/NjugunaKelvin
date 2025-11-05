@@ -50,6 +50,8 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" title="MySQL" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" title="Docker" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" alt="REST" title="REST" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="60" alt="GraphQL" title="GraphQL" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="60" alt="JEST" title="JEST" />
   
   
   <!--<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" title="AWS" /> -->
