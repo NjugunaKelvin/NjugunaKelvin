@@ -34,7 +34,7 @@
 | **Clean Architecture** | Services that survive the next pivot. |
 | **Performance First** | Profiling before premature optimization. |
 | **TDD & CI/CD** | Green pipelines == better sleep. |
-| **Full-Stack Fluency** | Python / Django / Java / React / Azure / JavaScript. |
+| **Full-Stack Fluency** | Python / Java / JavaScript - and the related frameworks |
 | **Product Mindset** | Code is a means, user value is the end. |
 
 ---
