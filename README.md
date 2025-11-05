@@ -48,7 +48,10 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" alt="Java" title="Java" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" title="React" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" title="MySQL" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="Git" title="Git" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" title="Docker" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" alt="REST" title="REST" />
+  
+  
   <!--<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" title="AWS" /> -->
 </p>
 
