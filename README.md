@@ -1,80 +1,76 @@
-<!-- ─────────────  HERO  ───────────── -->
+<!-- ─────────────  HERO + TAGLINE ───────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Software+Engineer;Clean+Code+Advocate;Builder+of+Useful+Things" alt="Typing text" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=28&lines=Building+Reliable+Software;Scaling+Complex+Systems;Crafting+Solutions+Users+Love" alt="Typing Text" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building%20solutions%20one%20line%20at%20a%20time.-FFA500?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
-</p>
-
-<!-- ─────────────  ELEVATOR PITCH  ───────────── -->
-<h3 align="center">
-  I turn ideas into reliable software, then make it faster, simpler, and easier to maintain.
-</h3>
-
-<p align="center">
-  Backend, frontend, and the parts in-between.<br/>
-  Currently curious about AI-augmented tooling & humane interfaces.
-</p>
-
-<!-- ─────────────  SOCIAL BADGES  ───────────── -->
-<p align="center">
-  <a href="https://njuguna-kelvin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-  <a href="https://www.instagram.com/zenith.vin/"><img src="https://img.shields.io/badge/Instgaram-12100E?style=for-the-badge&logo=instagram&logoColor=pink" /></a>
-  <a href="https://www.linkedin.com/in/njuguna-kelvin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/NjugunaVin"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <em>Engineering for impact—writing code that lasts, scales, and delights.</em>
 </p>
 
 ---
 
-<!-- ─────────────  VALUE PROPS  ───────────── -->
-### What I bring to a codebase
-|  |  |
+<!-- ─────────────  CORE THEMES ───────────── -->
+### 🔹 My Engineering Philosophy
+| Principle | Why it Matters |
 |---|---|
-| **Clean Architecture** | Services that survive the next pivot. |
-| **Performance First** | Profiling before premature optimization. |
-| **TDD & CI/CD** | Green pipelines == better sleep. |
-| **Full-Stack Fluency** | Python / Java / JavaScript - and the related frameworks |
-| **Product Mindset** | Code is a means, user value is the end. |
+| **Scalable Architecture** | Systems that grow, not break under pressure. |
+| **Code as Communication** | Clean, readable, self-documenting. |
+| **Performance Awareness** | Optimized where it counts, not prematurely. |
+| **Testing & CI/CD** | Confidence before deployment. |
+| **User-Focused Thinking** | Features exist for humans, not just specs. |
 
 ---
 
-<!-- ─────────────  TECH FLAVORS  ───────────── -->
-### Tech Stack Snapshot
+<!-- ─────────────  TECH ECOSYSTEM ───────────── -->
+### ⚡ Technical Fluency
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" title="Python" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" title="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" alt="Django" title="Django" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" alt="Java" title="Java" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" title="React" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" title="MySQL" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" title="Docker" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" alt="REST" title="REST" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="60" alt="GraphQL" title="GraphQL" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="60" alt="JEST" title="JEST" />
-  
-  
-  <!--<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" title="AWS" /> -->
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" alt="React" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" alt="Docker" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" alt="GraphQL" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="50" alt="Jest" />
 </p>
+
+> Focused on building full-stack, highly maintainable, and production-ready systems.  
 
 ---
 
-<!-- ─────────────  GITHUB METRICS  ───────────── -->
-### GitHub at a Glance
-<p align="center">
-  <img width="410" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=NjugunaKelvin&theme=transparent&hide_border=true&background=00000000" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjugunaKelvin&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" />
-</p>
+<!-- ─────────────  PROJECT SNAPSHOT ───────────── -->
+### 🏗️ System Architecture
+```mermaid
+flowchart TD
+    subgraph Frontend
+        A[React / Next.js]
+        B[Tailwind / Styled Components]
+    end
 
----
+    subgraph Backend
+        C[Node.js / Python APIs]
+        D[GraphQL / REST]
+        E[Microservices]
+    end
 
-<!-- ─────────────  FOOTER CTA  ───────────── -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NjugunaKelvin&style=for-the-badge&color=orange" alt="Profile views" />
-</p>
+    subgraph AI & Data
+        F[ML Models]
+        G[Data Pipelines]
+        H[Cache / DB]
+    end
 
-<p align="center">
-  <strong>Have a gnarly problem or an open-source idea?</strong><br/>
-  <em>Let’s chat, my DMs are open.</em>
-</p>
+    subgraph DevOps
+        I[Docker / Kubernetes]
+        J[CI/CD Pipelines]
+        K[Monitoring & Logging]
+    end
+
+    A --> D
+    B --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    E --> I
+    I --> J
+    J --> K
