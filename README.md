@@ -22,7 +22,7 @@
 ---
 
 <!-- ─────────────  TECH ECOSYSTEM ───────────── -->
-### ⚡ Technical Fluency
+### Technical Fluency
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" alt="JavaScript" />
@@ -39,7 +39,7 @@
 ---
 
 <!-- ─────────────  PROJECT SNAPSHOT ───────────── -->
-### 🏗️ System Architecture
+### System Architecture
 ```mermaid
 flowchart TD
     subgraph Frontend
