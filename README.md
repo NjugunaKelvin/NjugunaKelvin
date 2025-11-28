@@ -45,7 +45,7 @@
 ```mermaid
 flowchart TD
     subgraph Frontend
-        A[React / Next.js]
+        A[React / Next.js/ Angular.js]
         B[Tailwind / Styled Components]
     end
 
@@ -56,9 +56,9 @@ flowchart TD
     end
 
     subgraph AI & Data
-        F[ML Models]
+        F[ML Models /MCPs]
         G[Data Pipelines]
-        H[Cache / DB]
+        H[Cache / DB / PostgreSQL / Vector DBs]
     end
 
     subgraph DevOps
