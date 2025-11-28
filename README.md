@@ -4,20 +4,22 @@
 </p>
 
 <p align="center">
-  <em>Engineering for impact—writing code that lasts, scales, and delights.</em>
+  <em>Engineering for impact, writing code that lasts, scales, and delights.</em>
 </p>
 
 ---
 
 <!-- ─────────────  CORE THEMES ───────────── -->
-### 🔹 My Engineering Philosophy
-| Principle | Why it Matters |
-|---|---|
-| **Scalable Architecture** | Systems that grow, not break under pressure. |
-| **Code as Communication** | Clean, readable, self-documenting. |
-| **Performance Awareness** | Optimized where it counts, not prematurely. |
-| **Testing & CI/CD** | Confidence before deployment. |
-| **User-Focused Thinking** | Features exist for humans, not just specs. |
+### 🧭 My Engineering Philosophy
+
+| Principle               | Why It Matters                                           | How I Apply It |
+|-------------------------|-----------------------------------------------------------|----------------|
+| **Scalable Architecture** | Systems should grow, not collapse under load.             | Modular designs, clear boundaries, horizontal-first thinking. |
+| **Code as Communication** | Code must be readable and self-evident.                  | Naming discipline, refactoring, concise abstractions. |
+| **Performance Awareness** | Optimize where it matters — not prematurely.             | Baseline profiling, measure-before-tuning, avoid clever slow hacks. |
+| **Testing & CI/CD**       | Confidence before deployment is non-negotiable.         | Unit tests, integration tests, pipelines that fail loudly. |
+| **User-Focused Thinking** | Features solve human problems, not checklist items.     | Talking to users, reducing friction, minimizing cognitive load. |
+
 
 ---
 
