@@ -46,7 +46,7 @@
 flowchart TD
     subgraph Frontend
         A[React / Next.js/ Angular.js]
-        B[Tailwind / Styled Components]
+        B[Tailwind / CSS]
     end
 
     subgraph Backend
