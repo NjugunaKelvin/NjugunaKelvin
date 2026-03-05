@@ -52,7 +52,7 @@ flowchart TD
     subgraph Backend
         C[Node.js / Python APIs]
         D[GraphQL / REST]
-        E[FastAPI / Express / FastAPI]
+        E[FastAPI / Express / Fastify]
     end
 
     subgraph AI & Data
